@@ -12,7 +12,7 @@ import { TodosModule } from './todos/todos.module';
       port: 3306,
       username: 'root',
       password: '',
-      database: 'test-db',
+      database: 'nest-db',
       autoLoadEntities: true,
       synchronize: true,
     }),
